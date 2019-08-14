@@ -1,0 +1,39 @@
+2019/08/13 10:32:33 [error] 5984#7228: *1 CreateFile() "D:\chrome-download\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/13 10:47:03 [notice] 11724#1372: signal process started
+2019/08/13 10:47:23 [notice] 20524#15176: signal process started
+2019/08/13 10:47:23 [error] 20524#15176: CreateFile() "D:\vscode\VisualML\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/13 10:47:30 [notice] 13232#9048: signal process started
+2019/08/13 10:47:30 [error] 13232#9048: CreateFile() "D:\vscode\VisualML\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/13 10:47:49 [notice] 16300#17872: signal process started
+2019/08/14 10:04:35 [error] 14268#15148: *1 CreateFile() "D:\vscode\VisualML\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/14 14:45:34 [notice] 18360#18132: signal process started
+2019/08/14 14:45:36 [notice] 7372#21204: signal process started
+2019/08/14 14:45:36 [error] 7372#21204: CreateFile() "D:\vscode\VisualML\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/14 14:45:48 [notice] 17016#10212: signal process started
+2019/08/14 14:49:10 [notice] 8548#7384: signal process started
+2019/08/14 14:49:13 [notice] 10596#19836: signal process started
+2019/08/14 14:49:13 [error] 10596#19836: CreateFile() "D:\vscode\VisualML\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/14 14:49:16 [notice] 18360#14280: signal process started
+2019/08/14 14:49:16 [error] 18360#14280: CreateFile() "D:\vscode\VisualML\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/14 14:49:40 [notice] 18056#17044: signal process started
+2019/08/14 14:50:53 [notice] 8200#19220: signal process started
+2019/08/14 14:52:33 [notice] 10708#13184: signal process started
+2019/08/14 14:56:53 [notice] 96#22196: signal process started
+2019/08/14 15:12:53 [notice] 15756#4824: signal process started
+2019/08/14 15:15:00 [notice] 13556#18264: signal process started
+2019/08/14 15:16:12 [notice] 15656#17092: signal process started
+2019/08/14 15:17:41 [error] 7388#872: *1 CreateFile() "D:\vscode\VisualML\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/14 15:17:47 [notice] 22416#17760: signal process started
+2019/08/14 15:18:05 [notice] 19940#1192: signal process started
+2019/08/14 15:18:15 [notice] 11072#13456: signal process started
+2019/08/14 15:18:27 [notice] 20368#11976: signal process started
+2019/08/14 15:24:42 [notice] 21332#10472: signal process started
+2019/08/14 15:32:21 [notice] 6496#18476: signal process started
+2019/08/14 15:49:19 [notice] 12236#21708: signal process started
+2019/08/14 15:49:21 [notice] 4548#21228: signal process started
+2019/08/14 15:49:21 [error] 4548#21228: CreateFile() "D:\vscode\VisualML\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/14 15:57:48 [notice] 4960#22564: signal process started
+2019/08/14 16:14:00 [notice] 21780#21208: signal process started
+2019/08/14 16:14:22 [notice] 21652#22612: signal process started
+2019/08/14 16:30:43 [notice] 1496#2620: signal process started
+2019/08/14 16:35:22 [notice] 7944#7892: signal process started
