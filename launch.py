@@ -22,9 +22,12 @@ try:
     webbrowser.open("http://localhost:80/")
 
     try:
-        print('Press Ctrl + C to save quit.\n')
-        print('If you forget to save quit. I recommend you press K to kill all nginx process. :)')
+        print('Press Ctrl + C to safe quit.')
+        
+        print('If you forget to safe quit. I recommend you press K to kill all nginx process. :)\n')
+        print('------------------------------------------')
         while True:
+            print('>>',end='')
             s = input()
             if s.lower() =='k':
                 os.system(cdRoot + '&&' + cdAbs + '&&' + killNgx)
